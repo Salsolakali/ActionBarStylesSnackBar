@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ActionBarStylesSnackBar</string>
     <string name="texto_snack_bar">Este es un ejemplo de snack bar</string>
+    <string name="add">Añadir</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Salir</string>
+    <string name="about">Info</string>
 </resources>
